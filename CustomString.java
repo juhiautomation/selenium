@@ -1,5 +1,5 @@
-public CustomString{
+public class CustomString{
 public static void main(String args[]){
-system.out.println("juhi agrawal");
+System.out.println("juhi agrawal");
 }
 }
